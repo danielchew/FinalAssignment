@@ -8,7 +8,7 @@ output: html_document
 * 'README.md': This document
 * 'run_analysis.R' : R source code for generate all the results from this project
 * 'avg_by_subject_activity.txt': space seperated text file containing tidy data set with the average of each variable for each activity and each subject.
-* 'codebook': 
+* 'codebook': describes the variables, the data, and  transformations use in project
 * feature_info.txt - details explanation of the variable in the table
 
 ##run_analysis.R
